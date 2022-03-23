@@ -32,4 +32,4 @@
 <p align="left" >   
   <img src="https://profile-counter.glitch.me/Thiago1alberto/count.svg" />  
 </p>
-<img src="https://user-images.githubusercontent.com/71457360/159799533-118f9de7-4210-414d-af1a-881adddbaa30.png" min-width="400px" max-width="400px" width="100px" align="left">
+<img src="https://user-images.githubusercontent.com/71457360/159799533-118f9de7-4210-414d-af1a-881adddbaa30.png" min-width="400px" max-width="400px" width="100px" align="right">
