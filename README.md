@@ -1,7 +1,10 @@
+<img src="https://user-images.githubusercontent.com/71457360/159620563-4878c639-bcd3-4d19-83e2-3ee298e8729c.png" min-width="700px" max-width="700px" width="400px" align="right">
 
 ## **Hello! Eu sou Thiago Alberto.** ##
 
 <p> Estudante de bacharelado em Ciência da Computação na UNICAP</p>
+<div align="center">
+
 
 ## **Redes Sociais** ##
 
@@ -19,17 +22,21 @@
 ## **Linguagens e ferramentas** ##
 
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  
+  ## **GitHub Análise** ##
+<p align="left" >   
+  <img src="https://github-readme-stats.vercel.app/api?username=Thiago1alberto&theme=blue-green" />  
 
-## **GitHub Análise** ##
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Thiago1alberto&theme=blue-green"/>
+  
 
   ## **Visitas ao meu perfil Github** ##
 
 <!-- visitors count  -->
 
-<p align="center" >   
+<p align="left" >   
   <img src="https://profile-counter.glitch.me/Thiago1alberto/count.svg" />  
 </p>
 
 </div>
+
+
