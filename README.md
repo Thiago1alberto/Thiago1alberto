@@ -23,7 +23,7 @@
   
 <h1 align="left"></h1> 
   
-<h1 align="right">Visitas ao meu perfil </h1> 
+<h1 align="left">Visitas ao meu perfil </h1> 
 <div  align="left"> 
 <!-- visitors count  -->   
   <img src="https://profile-counter.glitch.me/Thiago1alberto/count.svg" />  
