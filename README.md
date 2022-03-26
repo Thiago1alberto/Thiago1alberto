@@ -2,7 +2,7 @@
 
 ## **Eaee, pessoal aqui quem fala é o Thiago.** ## 
  <img align="left" height="120em" src="https://github-readme-stats.vercel.app/api?username=Thiago1alberto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="rigth" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago1alberto&layout=compact&langs_count=16&theme=tokyonight"/>
+  <img align="rigth" height="120em" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Thiago1alberto&langs_count=6&hide=&theme=tokyonight&line_height=27&layout=tokyonight"/>
 </div>
 <br>
 
