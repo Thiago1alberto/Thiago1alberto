@@ -1,8 +1,8 @@
  <img src="https://media.giphy.com/media/U8HE8c3dRgGAxxIxfY/giphy.gif" min-width="70px" max-width="70px" width="70px" align="right">
 
 ## **Eaee, pessoal aqui quem fala é o Thiago.** ## 
- <img align="left" height="120em" src="https://github-readme-stats.vercel.app/api?username=Thiago1alberto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="rigth" height="120em" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Thiago1alberto&langs_count=6&hide=&theme=tokyonight&line_height=27&layout=tokyonight"/>
+ <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=Thiago1alberto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="rigth" height="150em" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Thiago1alberto&langs_count=6&hide=&theme=tokyonight&line_height=27&layout=tokyonight"/>
 </div>
 <br>
 
