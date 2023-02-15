@@ -1,8 +1,8 @@
  <img src="https://media.giphy.com/media/U8HE8c3dRgGAxxIxfY/giphy.gif" min-width="70px" max-width="70px" width="70px" align="right">
 
-## **Eaee, pessoal aqui quem fala é o Thiago.** ## 
+## Fala devs👋, my name is Thiago alberto. ## 
  <img align="left" height="150em" src="https://github-readme-stats.vercel.app/api?username=Thiago1alberto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="rigth" height="160em" src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Thiago1alberto&langs_count=6&hide=&theme=tokyonight&line_height=27&layout=tokyonight"/>
+  <img align="rigth" height="280em"  src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Thiago1alberto&langs_count=6&hide=&theme=tokyonight&line_height=27&layout=tokyonight"/>
 </div>
 <br>
 
@@ -19,10 +19,19 @@
 </div> 
   
  <h1 align="center">Linguagens e Ferramentas </h1> 
-<p align="center"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-  
+            <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+            <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>      
+            <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> 
+            <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>          
+            <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>     
+            <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+          
+          
+       
+
+          
+       
 <h1 align="left"></h1> 
-  
 <h1 align="left">Visitas ao meu perfil </h1> 
 <div  align="left"> 
 <!-- visitors count  -->   
