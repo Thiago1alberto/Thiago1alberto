@@ -9,7 +9,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thiago1alberto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="My Github Stats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago1alberto&layout=compact&langs_count=6&theme=tokyonight" alt="My Top Languages">
 </div>
-<img src="https://media.giphy.com/media/HvekzBaREHxlEwvlOS/giphy.gif" width="300px" align="left" alt="Gif de Redes Sociais">
 <h1 align="center">Redes Sociais</h1>
 <div align="center">
   <div style="display: inline-block">
@@ -25,6 +24,13 @@
             <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>          
             <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>     
             <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/>
+            <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />  
+            <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />          
+            <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+            <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+          
+          
+          
 
 <h1 align="left"></h1> 
 <br>
