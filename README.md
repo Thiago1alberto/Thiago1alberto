@@ -3,6 +3,9 @@
   <h2>👋 Fala devs, meu nome é Thiago Alberto.</h2>
 </div>
 <div>
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Thiago1alberto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thiago1alberto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="My Github Stats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago1alberto&layout=compact&langs_count=6&theme=tokyonight" alt="My Top Languages">
 </div>
@@ -30,6 +33,7 @@
 <!-- visitors count  -->   
   <img src="https://profile-counter.glitch.me/Thiago1alberto/count.svg" />  
 </p>
+
  <br>
   <img align="right" src="https://user-images.githubusercontent.com/71457360/159799533-118f9de7-4210-414d-af1a-881adddbaa30.png" min-width="400px" max-width="400px" width="100px">
   <p1 align="center"> 🕊"Para as pessoas que têm visto e desfrutado da internet livre e aberta, cabe a nós preservar essa liberdade para a próxima geração desfrutar dela.." —  Edward Snowden</p1>
