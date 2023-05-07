@@ -9,7 +9,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thiago1alberto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="My Github Stats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago1alberto&layout=compact&langs_count=6&theme=tokyonight" alt="My Top Languages">
 </div>
-<h1 align="center">Social medias</h1>
+<h1 align="center">Social media</h1>
 <div align="center">
   <div style="display: inline-block">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/thiago-alberto-864121190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thiago-alberto-864121190/" height="30" width="40" /></a>
