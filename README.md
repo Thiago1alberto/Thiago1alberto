@@ -5,6 +5,8 @@
 <div>
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Thiago1alberto&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <br>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thiago1alberto&hide_progress=true)
   
 </div>
 <h1 align="center">Social media</h1>
@@ -27,7 +29,7 @@
             <img src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
           
           
-          
+        
 
 <h1 align="left"></h1> 
 <br>
