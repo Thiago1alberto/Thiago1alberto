@@ -4,10 +4,8 @@
 </div>
 <div>
 </div>
-<h1 align="center">Social media</h1>
-<div align="center">
-  <div style="display: inline-block">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/thiago-alberto-864121190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thiago-alberto-864121190/" height="30" width="40" /></a>
+<h3 align="left">Redes sociais:</h3>
+<p href="https://linkedin.com/in/https://www.linkedin.com/in/thiago-alberto-864121190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/thiago-alberto-864121190/" height="30" width="40" /></a>
 <a href="https://discord.gg/Thiago Albert0#2726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Thiago Albert0#2726" height="40" width="40" /></a>
 <a href="https://wa.me/qr/NTC2WJMV7MTMA1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Thiago Albert0#2726" height="30" width="40" /></a>
 </div> 
