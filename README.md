@@ -39,6 +39,13 @@ Sou estudante de Ciência da Computação com forte interesse em análise de dad
 - **Banco de Dados:** SQL, MongoDB
 - **Outras Ferramentas:** GIT, Scrum, Machine Learning, APIs, KPIs, Visualização de Dados
 
+## Habilidades Soft
+
+- **Comunicação:** Capacidade de comunicar insights de forma clara e eficaz
+- **Resolução de Problemas:** Identificar e solucionar problemas
+- **Atenção aos Detalhes:** Precisão e cuidado em análises 
+- **Gerenciamento de Tempo:** Habilidade para gerenciar múltiplos projetos e prazos
+- **Colaboração em Equipe:** Trabalho eficaz em ambientes de equipe
 ---
 
 ## Contato
