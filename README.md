@@ -1,6 +1,6 @@
 # Thiago Alberto Ribeiro dos Santos
 
-## Aspiring Data Analyst
+## Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/thiago-alberto-864121190/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-black)](https://leetcode.com/thiago1alberto/)
@@ -49,7 +49,9 @@ Sou estudante de Ciência da Computação com forte interesse em análise de dad
 
 ---
 
-
+## Idiomas 
+- Ingles (Avançado)
+- Espanhol (básico)
 
 ---
 
