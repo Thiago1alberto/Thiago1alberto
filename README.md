@@ -37,8 +37,8 @@ Sou estudante de Ciência da Computação com forte interesse em análise de dad
 - **Bibliotecas de Ciência de Dados:** pandas, NumPy, scikit-learn, TensorFlow
 - **Ferramentas de Análise de Dados:** Power BI, Excel, Qlik, looker Studio 
 - **Banco de Dados:** SQL, MongoDB
-- **Big Data:** Apache Spark 
 - **Outras Ferramentas:** GIT, Scrum, Machine Learning, APIs, KPIs, Visualização de Dados
+- **Aprendendo...:** Apache Spark, AWS
 
 ## Habilidades Soft
 
